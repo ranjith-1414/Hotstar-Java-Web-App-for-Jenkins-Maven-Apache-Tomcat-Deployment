@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="./assets/css/style.css">
 
-    <title>Disney+ Hotstar - Watch TV Shows Online</title>
+    <title>Disney+ Hotstar - Watch TV Shows&Movies Online</title>
 </head>
 
 <body>
